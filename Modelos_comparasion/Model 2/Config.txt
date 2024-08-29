@@ -1,0 +1,5 @@
+OPTMIZER: ADAM
+LR: 0.0004
+CNN: 4 Layers, 2 Fully connected-layers
+Max-POOL: 2x2 
+

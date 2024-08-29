@@ -1,0 +1,3 @@
+OPTMIZER: ADAM
+LR: 0.001
+CNN: 4 Layers, Batch-norm, Max-pooling
